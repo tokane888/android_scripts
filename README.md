@@ -1,0 +1,2 @@
+# android_scripts
+root化したandroid用スクリプト
